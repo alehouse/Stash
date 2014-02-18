@@ -1,0 +1,1196 @@
+TStash
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Info.plist /Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o /Volumes/SHARED/alehouse/Stash/Stash/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/main.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+cAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+cLd /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash normal x86_64
+cGenerateDSYMFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash
+cCopyStringsFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings Stash/en.lproj/InfoPlist.strings
+cCpResource Stash/en.lproj/Credits.rtf build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib
+cTiffUtil Category.tiff
+cTiffUtil Class.tiff
+cTiffUtil Enum.tiff
+cTiffUtil Function.tiff
+cTiffUtil Macro.tiff
+cTiffUtil Method.tiff
+cTiffUtil Property.tiff
+cTiffUtil Protocol.tiff
+cTiffUtil Struct.tiff
+cTiffUtil Typedef.tiff
+cTiffUtil Union.tiff
+cTiffUtil Value.tiff
+cCompileXIB /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib
+cTiffUtil iOS.tiff
+cTiffUtil MacOS.tiff
+cCpResource Images/HorizontalSeparator.png build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png
+cTiffUtil Tick.tiff
+cTouch /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822B6200000000000000AA
+t1384262498
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C8246000000000000044C
+t1382842950
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C824600000000000001DB
+t1382842950
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526C8247000000000000253C
+t1382842951
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c00000000526C82490000000000089028
+t1382842953
+s561192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libxml2.dylib
+c00000000526C824B000000000003A860
+t1382842955
+s239712
+
+N/Volumes/SHARED/alehouse/Stash/Images/Category.png
+c000000005302BAF000000000000001E4
+t1392687856
+s484
+
+N/Volumes/SHARED/alehouse/Stash/Images/Category@2x.png
+c000000005302BAF000000000000003A3
+t1392687856
+s931
+
+N/Volumes/SHARED/alehouse/Stash/Images/Class.png
+c000000005302BAF0000000000000022D
+t1392687856
+s557
+
+N/Volumes/SHARED/alehouse/Stash/Images/Class@2x.png
+c000000005302BAF00000000000000430
+t1392687856
+s1072
+
+N/Volumes/SHARED/alehouse/Stash/Images/Enum.png
+c000000005302BAF00000000000000199
+t1392687856
+s409
+
+N/Volumes/SHARED/alehouse/Stash/Images/Enum@2x.png
+c000000005302BAF0000000000000022C
+t1392687856
+s556
+
+N/Volumes/SHARED/alehouse/Stash/Images/Function.png
+c000000005302BAF000000000000001F1
+t1392687856
+s497
+
+N/Volumes/SHARED/alehouse/Stash/Images/Function@2x.png
+c000000005302BAF0000000000000036A
+t1392687856
+s874
+
+N/Volumes/SHARED/alehouse/Stash/Images/HorizontalSeparator.png
+c000000005302BAF00000000000001D71
+t1392687856
+s7537
+
+N/Volumes/SHARED/alehouse/Stash/Images/MacOS.png
+c000000005302BAF00000000000000726
+t1392687856
+s1830
+
+N/Volumes/SHARED/alehouse/Stash/Images/MacOS@2x.png
+c000000005302BAF00000000000000B96
+t1392687856
+s2966
+
+N/Volumes/SHARED/alehouse/Stash/Images/Macro.png
+c000000005302BAF0000000000000021F
+t1392687856
+s543
+
+N/Volumes/SHARED/alehouse/Stash/Images/Macro@2x.png
+c000000005302BAF000000000000003F1
+t1392687856
+s1009
+
+N/Volumes/SHARED/alehouse/Stash/Images/Method.png
+c000000005302BAF00000000000000215
+t1392687856
+s533
+
+N/Volumes/SHARED/alehouse/Stash/Images/Method@2x.png
+c000000005302BAF00000000000000369
+t1392687856
+s873
+
+N/Volumes/SHARED/alehouse/Stash/Images/Property.png
+c000000005302BAF000000000000001CD
+t1392687856
+s461
+
+N/Volumes/SHARED/alehouse/Stash/Images/Property@2x.png
+c000000005302BAF000000000000002D7
+t1392687856
+s727
+
+N/Volumes/SHARED/alehouse/Stash/Images/Protocol.png
+c000000005302BAF0000000000000021E
+t1392687856
+s542
+
+N/Volumes/SHARED/alehouse/Stash/Images/Protocol@2x.png
+c000000005302BAF0000000000000035B
+t1392687856
+s859
+
+N/Volumes/SHARED/alehouse/Stash/Images/Struct.png
+c000000005302BAF00000000000000212
+t1392687856
+s530
+
+N/Volumes/SHARED/alehouse/Stash/Images/Struct@2x.png
+c000000005302BAF000000000000003F8
+t1392687856
+s1016
+
+N/Volumes/SHARED/alehouse/Stash/Images/Tick.png
+c000000005302BAF000000000000011A7
+t1392687856
+s4519
+
+N/Volumes/SHARED/alehouse/Stash/Images/Tick@2x.png
+c000000005302BAF0000000000000139E
+t1392687856
+s5022
+
+N/Volumes/SHARED/alehouse/Stash/Images/Typedef.png
+c000000005302BAF00000000000000174
+t1392687856
+s372
+
+N/Volumes/SHARED/alehouse/Stash/Images/Typedef@2x.png
+c000000005302BAF000000000000001EA
+t1392687856
+s490
+
+N/Volumes/SHARED/alehouse/Stash/Images/Union.png
+c000000005302BAF000000000000001CA
+t1392687856
+s458
+
+N/Volumes/SHARED/alehouse/Stash/Images/Union@2x.png
+c000000005302BAF00000000000000304
+t1392687856
+s772
+
+N/Volumes/SHARED/alehouse/Stash/Images/Value.png
+c000000005302BAF00000000000000221
+t1392687856
+s545
+
+N/Volumes/SHARED/alehouse/Stash/Images/Value@2x.png
+c000000005302BAF000000000000003E6
+t1392687856
+s998
+
+N/Volumes/SHARED/alehouse/Stash/Images/iOS.png
+c000000005302BAF000000000000005DF
+t1392687856
+s1503
+
+N/Volumes/SHARED/alehouse/Stash/Images/iOS@2x.png
+c000000005302BAF000000000000007B0
+t1392687856
+s1968
+
+N/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+c000000005302BAF00000000000002694
+t1392687856
+s9876
+
+N/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+c000000005302BAF0000000000000098A
+t1392687856
+s2442
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+c000000005302BAF00000000000005428
+t1392687856
+s21544
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+c000000005302BAF0000000000000261A
+t1392687856
+s9754
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+c000000005302BAF00000000000000751
+t1392687856
+s1873
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+c000000005302BAF00000000000003629
+t1392687856
+s13865
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+c000000005302BAF00000000000002B4B
+t1392687856
+s11083
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib
+c000000005302BAF0000000000000CAAA
+t1392687856
+s51882
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+c000000005302BAF00000000000002552
+t1392687856
+s9554
+
+N/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+c000000005302BAF00000000000000D5F
+t1392687856
+s3423
+
+N/Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist
+c000000005302BAF000000000000004C6
+t1392687856
+s1222
+
+N/Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch
+c000000005302BAF00000000000000124
+t1392687856
+s292
+
+N/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/Credits.rtf
+c000000005302BAF000000000000001B4
+t1392687856
+s436
+
+N/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/InfoPlist.strings
+c000000005302BAF0000000000000002D
+t1392687856
+s45
+
+N/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib
+c000000005302BAF0000000000003911E
+t1392687856
+s233758
+
+N/Volumes/SHARED/alehouse/Stash/Stash/main.m
+c000000005302BAF000000000000000E2
+t1392687856
+s226
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app
+t1392765574
+s32768
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Info.plist
+t1392765574
+s1528
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash
+t1392765576
+s236392
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/PkgInfo
+t1392765574
+s8
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Category.tiff
+t1392765576
+s2084
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Class.tiff
+t1392765576
+s2242
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Enum.tiff
+t1392765576
+s1636
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Function.tiff
+t1392765576
+s2100
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png
+t1392765576
+s7537
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/MacOS.tiff
+t1392765576
+s7890
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Macro.tiff
+t1392765576
+s2260
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Method.tiff
+t1392765576
+s2366
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Property.tiff
+t1392765576
+s1904
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Protocol.tiff
+t1392765576
+s2136
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/STAPreferencesController.nib
+t1392765578
+s10426
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Struct.tiff
+t1392765576
+s2218
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Tick.tiff
+t1392765576
+s10136
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Typedef.tiff
+t1392765576
+s1560
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Union.tiff
+t1392765576
+s2188
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Value.tiff
+t1392765576
+s2362
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf
+t1392765576
+s436
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1392765576
+s92
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/MainMenu.nib
+t1392765576
+s50269
+
+N/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/iOS.tiff
+t1392765576
+s6716
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o
+t1392765574
+s49440
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o
+t1392765574
+s23272
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o
+t1392765576
+s193300
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o
+t1392765574
+s62292
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o
+t1392765574
+s21928
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o
+t1392765576
+s173784
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o
+t1392765576
+s122096
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o
+t1392765574
+s46680
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o
+t1392765574
+s41292
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/Stash.LinkFileList
+c000000005303EA860000000000000435
+t1392765574
+s1077
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o
+t1392765574
+s2872
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/HTMLNode.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/HTMLParser.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAAppDelegate.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STADocSet.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STADocSetStore.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAMainWindowController.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAPreferencesController.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STASymbol.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STASymbolTableViewCell.plist
+t2
+s0
+
+N/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/main.plist
+t2
+s0
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch
+t1392765575
+s13692700
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch
+t1392765575
+s13692844
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+s414458376.072088
+e414458377.315051
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m65"[1mAnalyzeShallow[0m [1mObjective-C-HMTL-Parser/HTMLNode.m[0mf88a120822b4b841^c6a7500922b4b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m0000000000000000^3310"[1mAnalyzeShallow[0m [1mObjective-C-HMTL-Parser/HTMLNode.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/HTMLNode.plist36"015E3CF4-92CA-4D93-9BBB-24A4D3B262E9-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+s414458376.074769
+e414458376.114850
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m67"[1mAnalyzeShallow[0m [1mObjective-C-HMTL-Parser/HTMLParser.m[0mac36130822b4b841^a8731d0822b4b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m0000000000000000^3316"[1mAnalyzeShallow[0m [1mObjective-C-HMTL-Parser/HTMLParser.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/HTMLParser.plist36"DDD62F50-7BF1-43FA-9F62-290BEE9E0C35-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+s414458375.975825
+e414458376.089673
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m53"[1mAnalyzeShallow[0m [1mStash/STAAppDelegate.m[0mefe2f90722b4b841^a302170822b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m0000000000000000^3292"[1mAnalyzeShallow[0m [1mStash/STAAppDelegate.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAAppDelegate.plist36"A9DD8C40-011B-4F66-80A7-80F30D4DBD23-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+s414458376.021195
+e414458376.073412
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m48"[1mAnalyzeShallow[0m [1mStash/STADocSet.m[0m4981050822b4b841^53cb120822b4b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m0000000000000000^3277"[1mAnalyzeShallow[0m [1mStash/STADocSet.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STADocSet.plist36"DC34DD1B-9FA7-4373-8661-4B26E0356085-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+s414458376.150173
+e414458376.176673
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m53"[1mAnalyzeShallow[0m [1mStash/STADocSetStore.m[0me882260822b4b841^823a2d0822b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m0000000000000000^3292"[1mAnalyzeShallow[0m [1mStash/STADocSetStore.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STADocSetStore.plist36"F4E9580B-6B74-467B-A5E8-6BB5FBEA722F-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+s414458376.150149
+e414458376.229857
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m62"[1mAnalyzeShallow[0m [1mStash/STAMainWindowController.m[0m4d83260822b4b841^1bd83a0822b4b841^---0#0#1#-19%DVTDocumentLocation2@78"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m0000000000000000^3319"[1mAnalyzeShallow[0m [1mStash/STAMainWindowController.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAMainWindowController.plist36"3FEBE991-94AB-4610-9AEB-E855BAEC1817-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+s414458376.129472
+e414458376.207125
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m63"[1mAnalyzeShallow[0m [1mStash/STAPreferencesController.m[0mfc39210822b4b841^9912350822b4b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m0000000000000000^3322"[1mAnalyzeShallow[0m [1mStash/STAPreferencesController.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STAPreferencesController.plist36"B0ABF254-1573-4800-B159-0D19E8A46CC5-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+s414458376.090899
+e414458376.128204
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m48"[1mAnalyzeShallow[0m [1mStash/STASymbol.m[0m936e170822b4b841^a4e1200822b4b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m0000000000000000^3277"[1mAnalyzeShallow[0m [1mStash/STASymbol.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STASymbol.plist36"C126526A-FD29-47CF-BF71-6A99FF5DB0DB-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+s414458376.116146
+e414458376.149792
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m61"[1mAnalyzeShallow[0m [1mStash/STASymbolTableViewCell.m[0m03cf1d0822b4b841^f46c260822b4b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m0000000000000000^3316"[1mAnalyzeShallow[0m [1mStash/STASymbolTableViewCell.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/STASymbolTableViewCell.plist36"C423E5A3-B650-4295-A407-588E1C17CC29-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CAnalyzeShallow /Volumes/SHARED/alehouse/Stash/Stash/main.m
+s414458375.954388
+e414458375.974663
+r1
+xAnalyzeShallow
+x/Volumes/SHARED/alehouse/Stash/Stash/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Analyze (shallow) /Volumes/SHARED/alehouse/Stash/Stash/main.m43"[1mAnalyzeShallow[0m [1mStash/main.m[0mc765f40722b4b841^4183f90722b4b841^---0#0#1#-19%DVTDocumentLocation2@59"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/main.m0000000000000000^3262"[1mAnalyzeShallow[0m [1mStash/main.m[0m    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch --analyze /Volumes/SHARED/alehouse/Stash/Stash/main.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/StaticAnalyzer/Stash/Stash/normal/x86_64/main.plist36"273A45AF-4634-4527-BFD9-2F8C3542F342-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescfbda30622b4b841^b35ebc0622b4b841^-162"Code Sign warning: CODE_SIGN_ENTITLEMENTS specified without specifying CODE_SIGN_IDENTITY. It is not possible to add entitlements to a binary without signing it.1(21%IDEActivityLogMessage2@142"CODE_SIGN_ENTITLEMENTS specified without specifying CODE_SIGN_IDENTITY. It is not possible to add entitlements to a binary without signing it.-414458374#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-20"Code Signing Warning--0#1#1#--18"Check dependencies36"AA561EA6-F42E-4D53-84F2-29649355063F-
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.702098
+e414458375.828150
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o
+x/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/HTMLtree.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m200"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o [1mObjective-C-HMTL-Parser/HTMLNode.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera7ceb30722b4b841^7d06d40722b4b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m0000000000000000^2872"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o [1mObjective-C-HMTL-Parser/HTMLNode.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.dia -c /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o36"0498E22A-7EF3-4CF9-A471-A5C745B18CA1-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.742835
+e414458375.812721
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o
+x/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m204"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o [1mObjective-C-HMTL-Parser/HTMLParser.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler583bbe0722b4b841^9f21d00722b4b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m0000000000000000^2884"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o [1mObjective-C-HMTL-Parser/HTMLParser.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.dia -c /Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o36"3A2F3BB3-C216-4863-BA9F-13FFFE2282C3-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.702101
+e414458376.019369
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m194"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o [1mStash/STAAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbceb30722b4b841^ff06050822b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m0000000000000000^2872"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o [1mStash/STAAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o36"AB9547F3-4156-4869-834B-BE40282EC781-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.702111
+e414458375.850807
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLParser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/HTMLparser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlversion.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlexports.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/parser.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/tree.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlstring.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlregexp.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/dict.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/hash.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/valid.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlerror.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/list.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlautomata.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/entities.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/encoding.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlIO.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/globals.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xlink.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/SAX2.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/xmlmemory.h
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2/libxml/threads.h
+d/Volumes/SHARED/alehouse/Stash/Objective-C-HMTL-Parser/HTMLNode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m184"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o [1mStash/STADocSet.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3ecfb30722b4b841^6cced90722b4b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m0000000000000000^2842"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o [1mStash/STADocSet.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STADocSet.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o36"AB8A9B33-1777-479B-B92D-CE543CE59F63-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.908232
+e414458375.953009
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m194"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o [1mStash/STADocSetStore.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d95e80722b4b841^34f8f30722b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m0000000000000000^2872"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o [1mStash/STADocSetStore.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o36"015CE4CC-86ED-4B25-9611-6B2C140F6995-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.903349
+e414458376.148764
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m212"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o [1mStash/STAMainWindowController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a54e70722b4b841^a226260822b4b841^---0#0#1#-19%DVTDocumentLocation2@78"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m0000000000000000^2926"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o [1mStash/STAMainWindowController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o36"27B1C782-5625-45F6-B9FE-2256B345920F-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.852147
+e414458376.070732
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STAAppDelegate.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STAMainWindowController.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSetStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m214"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o [1mStash/STAPreferencesController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c3eda0722b4b841^b01b120822b4b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m0000000000000000^2932"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o [1mStash/STAPreferencesController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o36"F947EA36-2BD3-469F-A2C7-52CD1579D5F4-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.815078
+e414458375.906575
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.h
+d/Volumes/SHARED/alehouse/Stash/Stash/STADocSet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m184"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o [1mStash/STASymbol.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7bed00722b4b841^5d15e80722b4b841^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m0000000000000000^2842"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o [1mStash/STASymbol.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STASymbol.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o36"4383E3B6-EF2C-4767-9EEF-F64CE2878256-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.830097
+e414458375.901828
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o
+x/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m
+d/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m210"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o [1mStash/STASymbolTableViewCell.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c94d40722b4b841^61fae60722b4b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m0000000000000000^2920"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o [1mStash/STASymbolTableViewCell.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.dia -c /Volumes/SHARED/alehouse/Stash/Stash/STASymbolTableViewCell.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o36"B6754232-75CA-4D59-B0D0-E3EB24E30508-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileC build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o /Volumes/SHARED/alehouse/Stash/Stash/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458375.702096
+e414458375.741586
+r1
+xCompileC
+xbuild/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o
+x/Volumes/SHARED/alehouse/Stash/Stash/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Volumes/SHARED/alehouse/Stash/Stash/main.m174"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o [1mStash/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilereecdb30722b4b841^9815be0722b4b841^---0#0#1#-19%DVTDocumentLocation2@59"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/main.m0000000000000000^2812"[1mCompileC[0m build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o [1mStash/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.dia -c /Volumes/SHARED/alehouse/Stash/Stash/main.m -o /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o36"E1790029-D155-4778-AC2C-E6800B486BCC-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileXIB /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib
+s414458377.520152
+e414458378.386929
+r1
+xCompileXIB
+x/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib61"[1mCompileXIB[0m [1mStash/STAPreferencesController.xib[0m9c34850922b4b841^fa0d630a22b4b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib0000000000000000^530"[1mCompileXIB[0m [1mStash/STAPreferencesController.xib[0m    cd /Volumes/SHARED/alehouse/Stash    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/STAPreferencesController.nib /Volumes/SHARED/alehouse/Stash/Stash/STAPreferencesController.xib36"A078EEC2-1792-46DE-B42F-833F044C6022-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCompileXIB /Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib
+s414458377.423776
+e414458378.387290
+r1
+xCompileXIB
+x/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib:1468: warning: Use Current Width For Max Layout Width on Mac OS X versions prior to 10.8 [5]
+o/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib:1217: warning: Automatically Recalculates Cell Size on OS X versions prior to 10.8 [5]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compiling /Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib54"[1mCompileXIB[0m [1mStash/en.lproj/MainMenu.xib[0m40886c0922b4b841^5727630a22b4b841^-331"/* com.apple.ibtool.document.warnings *//Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib:1468: warning: Use Current Width For Max Layout Width on Mac OS X versions prior to 10.8/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib:1217: warning: Automatically Recalculates Cell Size on OS X versions prior to 10.82(21%IDEActivityLogMessage2@73"Use Current Width For Max Layout Width on Mac OS X versions prior to 10.8-414458378#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@74"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib0000000000000000^1467#18446744073709551615#1467#18446744073709551615#18446744073709551615#0#21"Attribute Unavailable--2@67"Automatically Recalculates Cell Size on OS X versions prior to 10.8-414458378#18446744073709551615#0#-1#-3@74"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib0000000000000000^1216#18446744073709551615#1216#18446744073709551615#18446744073709551615#0#21"Attribute Unavailable--0#0#1#-19%DVTDocumentLocation4@74"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib0000000000000000^509"[1mCompileXIB[0m [1mStash/en.lproj/MainMenu.xib[0m    cd /Volumes/SHARED/alehouse/Stash    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/MainMenu.nib /Volumes/SHARED/alehouse/Stash/Stash/en.lproj/MainMenu.xib36"A4C50F96-7115-44F3-9D5F-A3BE3C385D27-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCopyStringsFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings Stash/en.lproj/InfoPlist.strings
+s414458377.423637
+e414458377.427513
+r1
+xCopyStringsFile
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings
+xStash/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Stash/en.lproj/InfoPlist.strings126"[1mCopyStringsFile[0m build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings Stash/en.lproj/InfoPlist.strings9c866c0922b4b841^d2716d0922b4b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/en.lproj/InfoPlist.strings0000000000000000^374"[1mCopyStringsFile[0m build/Release/Stash.app/Contents/Resources/en.lproj/InfoPlist.strings Stash/en.lproj/InfoPlist.strings    cd /Volumes/SHARED/alehouse/Stash    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj -- Stash/en.lproj/InfoPlist.strings36"AC35B879-FA43-4C6C-B7BD-58B40850FE53-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCpResource Images/HorizontalSeparator.png build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png
+s414458377.553656
+e414458377.556652
+r1
+xCpResource
+xImages/HorizontalSeparator.png
+xbuild/Release/Stash.app/Contents/Resources/HorizontalSeparator.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png116"[1mCpResource[0m Images/HorizontalSeparator.png build/Release/Stash.app/Contents/Resources/HorizontalSeparator.pngc9c88d0922b4b841^56818e0922b4b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png00389865dcffdf42^529"[1mCpResource[0m Images/HorizontalSeparator.png build/Release/Stash.app/Contents/Resources/HorizontalSeparator.png    cd /Volumes/SHARED/alehouse/Stash    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/Stash/Images/HorizontalSeparator.png /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources36"DBFE4880-FD82-45B3-AD19-0192A0398F9C-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CCpResource Stash/en.lproj/Credits.rtf build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf
+s414458377.423651
+e414458377.426519
+r1
+xCpResource
+xStash/en.lproj/Credits.rtf
+xbuild/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf109"[1mCpResource[0m Stash/en.lproj/Credits.rtf build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtfcf826c0922b4b841^9c306d0922b4b841^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf00389865dcffdf42^527"[1mCpResource[0m Stash/en.lproj/Credits.rtf build/Release/Stash.app/Contents/Resources/en.lproj/Credits.rtf    cd /Volumes/SHARED/alehouse/Stash    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/Stash/Stash/en.lproj/Credits.rtf /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/en.lproj36"3F13B9C1-3EED-47EF-B597-E93F3D3C4B57-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CGenerateDSYMFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash
+s414458377.385710
+e414458377.415570
+r1
+xGenerateDSYMFile
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Generate /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM106"[1mGenerateDSYMFile[0m [1mbuild/Release/Stash.app.dSYM[0m build/Release/Stash.app/Contents/MacOS/Stash82c8620922b4b841^0f636a0922b4b841^---0#0#1#-19%DVTDocumentLocation2@75"file://localhost/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM00389865dcffdf42^384"[1mGenerateDSYMFile[0m [1mbuild/Release/Stash.app.dSYM[0m build/Release/Stash.app/Contents/MacOS/Stash    cd /Volumes/SHARED/alehouse/Stash    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash -o /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app.dSYM36"C927FC9F-6DC4-4DEA-96CD-0EC8B722BF1A-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CLd /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash normal x86_64
+s414458377.323660
+e414458377.377366
+r1
+xLd
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash
+xnormal
+xx86_64
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/Stash.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/main.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAAppDelegate.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSet.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLNode.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/HTMLParser.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbol.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STASymbolTableViewCell.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAPreferencesController.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STAMainWindowController.o
+d/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/STADocSetStore.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libxml2.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/WebCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash69"[1mLd[0m build/Release/Stash.app/Contents/MacOS/Stash normal x86_64c5e7520922b4b841^639b600922b4b841^---0#0#1#--912"[1mLd[0m build/Release/Stash.app/Contents/MacOS/Stash normal x86_64    cd /Volumes/SHARED/alehouse/Stash    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/SHARED/alehouse/Stash/build/Release -F/Volumes/SHARED/alehouse/Stash/build/Release -filelist /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/Stash.LinkFileList -mmacosx-version-min=10.7 -fobjc-arc -fobjc-link-runtime -lxml2 -framework WebKit -framework Cocoa -Xlinker -dependency_info -Xlinker /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Objects-normal/x86_64/Stash_dependency_info.dat -o /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/MacOS/Stash36"FDFA516A-50E4-41CC-9302-874DA945936D-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CProcessInfoPlistFile /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Info.plist /Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist
+s414458374.739736
+e414458374.747559
+r1
+xProcessInfoPlistFile
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Info.plist
+x/Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Process /Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist103"[1mProcessInfoPlistFile[0m build/Release/Stash.app/Contents/Info.plist [1mStash/Stash-Info.plist[0m1975bd0622b4b841^4a60bf0622b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist0000000000000000^425"[1mProcessInfoPlistFile[0m build/Release/Stash.app/Contents/Info.plist [1mStash/Stash-Info.plist[0m    cd /Volumes/SHARED/alehouse/Stash    builtin-infoPlistUtility /Volumes/SHARED/alehouse/Stash/Stash/Stash-Info.plist -genpkginfo /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Info.plist36"3FA5F813-B9A5-428D-AA3F-70C3B2CFA633-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414458374.757055
+e414458375.526082
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch
+xStash/Stash-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Stash/Stash-Prefix.pch292"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler93e4c10622b4b841^43ac860722b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch0000000000000000^3006"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.d -c /Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-cgouhojtbgbfkealszdjsfmcsvzb/Stash-Prefix.pch.pch36"C2143288-842E-4CBA-8838-1E05045093CE-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s414458374.758328
+e414458375.693997
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch
+xStash/Stash-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Stash/Stash-Prefix.pch292"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer0533c20622b4b841^65a9b10722b4b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch0000000000000000^3395"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch Stash/Stash-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /Volumes/SHARED/alehouse/Stash    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wdeprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -D__clang_analyzer__ -Xclang -analyzer-output=plist-multi-file -Xclang -analyzer-config -Xclang path-diagnostics-alternate=true -Xclang -analyzer-config -Xclang report-in-main-source-file=true -Xclang -analyzer-config -Xclang mode=shallow -Xclang -analyzer-checker -Xclang security.FloatLoopCounter -Xclang -analyzer-checker -Xclang security.insecureAPI.UncheckedReturn -Xclang -analyzer-checker -Xclang security.insecureAPI.getpw -Xclang -analyzer-checker -Xclang security.insecureAPI.gets -Xclang -analyzer-checker -Xclang security.insecureAPI.mkstemp -Xclang -analyzer-checker -Xclang security.insecureAPI.mktemp -Xclang -analyzer-checker -Xclang security.insecureAPI.rand -Xclang -analyzer-checker -Xclang security.insecureAPI.strcpy -Xclang -analyzer-checker -Xclang security.insecureAPI.vfork -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-generated-files.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-own-target-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-all-target-headers.hmap -iquote /Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/Stash-project-headers.hmap -I/Volumes/SHARED/alehouse/Stash/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/libxml2 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources/x86_64 -I/Volumes/SHARED/alehouse/Stash/build/Stash.build/Release/Stash.build/DerivedSources -F/Volumes/SHARED/alehouse/Stash/build/Release -c /Volumes/SHARED/alehouse/Stash/Stash/Stash-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Stash-Prefix-ewlzqqohucjvadfubksuykwwclci/Stash-Prefix.pch.pch36"BC7DC49F-78CB-489B-B388-FB937A623BFC-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Category.tiff
+s414458377.423904
+e414458377.450140
+r1
+xTiffUtil
+xCategory.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Category.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"[1mTiffUtil[0m Category.tiff30"[1mTiffUtil[0m Category.tiff7e8d6c0922b4b841^734b730922b4b841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Volumes/SHARED/alehouse/Stash/Category.tiff00389865dcffdf42^304"[1mTiffUtil[0m Category.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Category@2x.png /Volumes/SHARED/alehouse/Stash/Images/Category.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Category.tiff36"AABD9EE1-1876-4A51-917C-1F744047DAA8-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Class.tiff
+s414458377.427653
+e414458377.451957
+r1
+xTiffUtil
+xClass.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Class.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"[1mTiffUtil[0m Class.tiff27"[1mTiffUtil[0m Class.tiff1b846d0922b4b841^6ccc730922b4b841^---0#0#1#-19%DVTDocumentLocation2@57"file://localhost/Volumes/SHARED/alehouse/Stash/Class.tiff00389865dcffdf42^292"[1mTiffUtil[0m Class.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Class@2x.png /Volumes/SHARED/alehouse/Stash/Images/Class.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Class.tiff36"3C0B76D2-24D7-485C-8EB5-CAA88F106B54-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Enum.tiff
+s414458377.427720
+e414458377.455341
+r1
+xTiffUtil
+xEnum.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Enum.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"[1mTiffUtil[0m Enum.tiff26"[1mTiffUtil[0m Enum.tiff1e876d0922b4b841^cba2740922b4b841^---0#0#1#-19%DVTDocumentLocation2@56"file://localhost/Volumes/SHARED/alehouse/Stash/Enum.tiff00389865dcffdf42^288"[1mTiffUtil[0m Enum.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Enum@2x.png /Volumes/SHARED/alehouse/Stash/Images/Enum.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Enum.tiff36"3F09B1A8-7FC0-422F-BDA7-35196242DA49-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Function.tiff
+s414458377.452122
+e414458377.473725
+r1
+xTiffUtil
+xFunction.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Function.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"[1mTiffUtil[0m Function.tiff30"[1mTiffUtil[0m Function.tiff36c9730922b4b841^4c52790922b4b841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Volumes/SHARED/alehouse/Stash/Function.tiff00389865dcffdf42^304"[1mTiffUtil[0m Function.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Function@2x.png /Volumes/SHARED/alehouse/Stash/Images/Function.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Function.tiff36"F1DB794A-5858-463B-9AA9-79670C1E6437-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil MacOS.tiff
+s414458377.526981
+e414458377.554058
+r1
+xTiffUtil
+xMacOS.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/MacOS.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"[1mTiffUtil[0m MacOS.tiff27"[1mTiffUtil[0m MacOS.tiffb2f3860922b4b841^45d78d0922b4b841^---0#0#1#-19%DVTDocumentLocation2@57"file://localhost/Volumes/SHARED/alehouse/Stash/MacOS.tiff00389865dcffdf42^292"[1mTiffUtil[0m MacOS.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/MacOS@2x.png /Volumes/SHARED/alehouse/Stash/Images/MacOS.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/MacOS.tiff36"3A59A332-7A9A-4F4A-B96F-A060FC69F18F-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Macro.tiff
+s414458377.453129
+e414458377.474997
+r1
+xTiffUtil
+xMacro.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Macro.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"[1mTiffUtil[0m Macro.tiff27"[1mTiffUtil[0m Macro.tiff0b09740922b4b841^849e790922b4b841^---0#0#1#-19%DVTDocumentLocation2@57"file://localhost/Volumes/SHARED/alehouse/Stash/Macro.tiff00389865dcffdf42^292"[1mTiffUtil[0m Macro.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Macro@2x.png /Volumes/SHARED/alehouse/Stash/Images/Macro.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Macro.tiff36"451DC9D1-E9E4-4E2C-9E7F-F010EB537E3C-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Method.tiff
+s414458377.456507
+e414458377.479177
+r1
+xTiffUtil
+xMethod.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Method.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"[1mTiffUtil[0m Method.tiff28"[1mTiffUtil[0m Method.tiffdee7740922b4b841^dbbf7a0922b4b841^---0#0#1#-19%DVTDocumentLocation2@58"file://localhost/Volumes/SHARED/alehouse/Stash/Method.tiff00389865dcffdf42^296"[1mTiffUtil[0m Method.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Method@2x.png /Volumes/SHARED/alehouse/Stash/Images/Method.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Method.tiff36"A9FDD391-09AD-44EE-8892-0DF33C412916-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Property.tiff
+s414458377.475170
+e414458377.497434
+r1
+xTiffUtil
+xProperty.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Property.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"[1mTiffUtil[0m Property.tiff30"[1mTiffUtil[0m Property.tiff82ae790922b4b841^925b7f0922b4b841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Volumes/SHARED/alehouse/Stash/Property.tiff00389865dcffdf42^304"[1mTiffUtil[0m Property.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Property@2x.png /Volumes/SHARED/alehouse/Stash/Images/Property.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Property.tiff36"713A68CD-3974-422D-9922-46FFA05F0B75-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Protocol.tiff
+s414458377.476198
+e414458377.498509
+r1
+xTiffUtil
+xProtocol.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Protocol.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"[1mTiffUtil[0m Protocol.tiff30"[1mTiffUtil[0m Protocol.tiff5ff0790922b4b841^5ea17f0922b4b841^---0#0#1#-19%DVTDocumentLocation2@60"file://localhost/Volumes/SHARED/alehouse/Stash/Protocol.tiff00389865dcffdf42^304"[1mTiffUtil[0m Protocol.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Protocol@2x.png /Volumes/SHARED/alehouse/Stash/Images/Protocol.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Protocol.tiff36"31DCE570-9AC3-43BB-AC32-94A189F4309B-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Struct.tiff
+s414458377.480396
+e414458377.502207
+r1
+xTiffUtil
+xStruct.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Struct.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"[1mTiffUtil[0m Struct.tiff28"[1mTiffUtil[0m Struct.tiff96057b0922b4b841^54aa800922b4b841^---0#0#1#-19%DVTDocumentLocation2@58"file://localhost/Volumes/SHARED/alehouse/Stash/Struct.tiff00389865dcffdf42^296"[1mTiffUtil[0m Struct.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Struct@2x.png /Volumes/SHARED/alehouse/Stash/Images/Struct.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Struct.tiff36"098785C8-68AB-4E19-B0B3-4EC1B8F0F2AD-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Tick.tiff
+s414458377.555215
+e414458377.577841
+r1
+xTiffUtil
+xTick.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Tick.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"[1mTiffUtil[0m Tick.tiff26"[1mTiffUtil[0m Tick.tiff2c458e0922b4b841^b7ed930922b4b841^---0#0#1#-19%DVTDocumentLocation2@56"file://localhost/Volumes/SHARED/alehouse/Stash/Tick.tiff00389865dcffdf42^288"[1mTiffUtil[0m Tick.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Tick@2x.png /Volumes/SHARED/alehouse/Stash/Images/Tick.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Tick.tiff36"E0A0E390-D078-42F4-A80C-BBAB49BA70D2-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Typedef.tiff
+s414458377.498656
+e414458377.518908
+r1
+xTiffUtil
+xTypedef.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Typedef.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"[1mTiffUtil[0m Typedef.tiff29"[1mTiffUtil[0m Typedef.tiffd8b77f0922b4b841^14eb840922b4b841^---0#0#1#-19%DVTDocumentLocation2@59"file://localhost/Volumes/SHARED/alehouse/Stash/Typedef.tiff00389865dcffdf42^300"[1mTiffUtil[0m Typedef.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Typedef@2x.png /Volumes/SHARED/alehouse/Stash/Images/Typedef.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Typedef.tiff36"2E607554-EDA7-4FAF-A6B2-98EC85E776A6-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Union.tiff
+s414458377.498911
+e414458377.523367
+r1
+xTiffUtil
+xUnion.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Union.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"[1mTiffUtil[0m Union.tiff27"[1mTiffUtil[0m Union.tiff16c17f0922b4b841^6809860922b4b841^---0#0#1#-19%DVTDocumentLocation2@57"file://localhost/Volumes/SHARED/alehouse/Stash/Union.tiff00389865dcffdf42^292"[1mTiffUtil[0m Union.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Union@2x.png /Volumes/SHARED/alehouse/Stash/Images/Union.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Union.tiff36"D2B4FE86-AC7E-4030-BC4A-3E3FB89337B3-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil Value.tiff
+s414458377.503342
+e414458377.525829
+r1
+xTiffUtil
+xValue.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Value.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"[1mTiffUtil[0m Value.tiff27"[1mTiffUtil[0m Value.tiff60e5800922b4b841^4ca6860922b4b841^---0#0#1#-19%DVTDocumentLocation2@57"file://localhost/Volumes/SHARED/alehouse/Stash/Value.tiff00389865dcffdf42^292"[1mTiffUtil[0m Value.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/Value@2x.png /Volumes/SHARED/alehouse/Stash/Images/Value.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/Value.tiff36"EBF83ACB-9FAF-4B88-9C8D-EE44B493CB65-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTiffUtil iOS.tiff
+s414458377.524590
+e414458377.552364
+r1
+xTiffUtil
+xiOS.tiff
+o2 images written to /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/iOS.tiff.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"[1mTiffUtil[0m iOS.tiff25"[1mTiffUtil[0m iOS.tifff355860922b4b841^32738d0922b4b841^---0#0#1#-19%DVTDocumentLocation2@55"file://localhost/Volumes/SHARED/alehouse/Stash/iOS.tiff00389865dcffdf42^284"[1mTiffUtil[0m iOS.tiff    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/tiffutil -cathidpicheck /Volumes/SHARED/alehouse/Stash/Images/iOS@2x.png /Volumes/SHARED/alehouse/Stash/Images/iOS.png -out /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app/Contents/Resources/iOS.tiff36"66ADB2A7-ACAE-4063-A159-17355A552F17-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
+CTouch /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app
+s414458378.395905
+e414458378.400255
+r1
+xTouch
+x/Volumes/SHARED/alehouse/Stash/build/Release/Stash.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Touch /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app37"[1mTouch[0m build/Release/Stash.app2463650a22b4b841^8177660a22b4b841^---0#0#1#--153"[1mTouch[0m build/Release/Stash.app    cd /Volumes/SHARED/alehouse/Stash    /usr/bin/touch -c /Volumes/SHARED/alehouse/Stash/build/Release/Stash.app36"59FC251B-3465-4BE8-9173-164415D52400-
+bF0868426-2D06-4BDD-8B1F-F58C90916C2E
+
